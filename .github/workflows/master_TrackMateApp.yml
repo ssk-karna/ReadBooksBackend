@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'TrackMateApp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_758eb8a0b8694f86906a3fcf8613c990 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1d1754e990ba4cffa549eeff4a7197bf }}
         package: .
